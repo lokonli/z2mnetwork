@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab2273ffd662152796df2855dc878b06",
+    "revision": "427244c01990bb5ed6ea69878d232c31",
     "url": "/z2mnetwork/index.html"
   },
   {
-    "revision": "1267bce3839b07d75b55",
+    "revision": "ea8c833edd42176f5d48",
     "url": "/z2mnetwork/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/z2mnetwork/static/js/2.0f58faaa.chunk.js"
   },
   {
-    "revision": "1267bce3839b07d75b55",
-    "url": "/z2mnetwork/static/js/main.ca107af5.chunk.js"
+    "revision": "ea8c833edd42176f5d48",
+    "url": "/z2mnetwork/static/js/main.a299412b.chunk.js"
   },
   {
     "revision": "db173f5eed102cd5753d",
